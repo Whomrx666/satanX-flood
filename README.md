@@ -18,8 +18,8 @@ $ cd satanX-flood
 $ perl satanX-flood.pl <ip target> 80 100 50
 ```
 ## Explanation
-80 : port
-100 : byte
+80 : port ,
+100 : byte ,
 50 : seconds of time
 
 ## Instructions
